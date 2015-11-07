@@ -1,3 +1,3 @@
-# node-draw-bot
+# esp8266-draw-bot
 
 This is the code and designs for an inexpensive drawing robot built on the Nodemcu platform.
